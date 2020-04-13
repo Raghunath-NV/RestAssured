@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4174" started-at="2020-04-13T05:14:36Z" finished-at="2020-04-13T05:14:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4174" started-at="2020-04-13T05:14:36Z" finished-at="2020-04-13T05:14:40Z">
+      <class name="realAPITesting.API_Operations">
+        <test-method status="PASS" signature="delte()[pri:0, instance:realAPITesting.API_Operations@3e6fa38a]" name="delte" duration-ms="3990" started-at="2020-04-13T05:14:36Z" finished-at="2020-04-13T05:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delte -->
+      </class> <!-- realAPITesting.API_Operations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
